@@ -1,17 +1,5 @@
 # HGAIT: Hierarchical Graph-based Attention for Financial Time-Series Prediction
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <em>Figure 1: End-to-end pipeline (Data → Graph → Train/Test)</em>
-      </td>
-      <td align="center">
-        <em>Figure 2: Model overview (TimeMixing → Variable Attention → Gated GAT → Predictor)</em>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ## Overview
 
@@ -141,6 +129,6 @@ If this repository is useful for your research, please consider citing it (examp
 
 - **PyTorch** and **PyTorch Geometric** for deep learning and graph neural network tooling
 - **Weights & Biases** for experiment tracking
-- **TQDM** for progress bars
 
-We appreciate the open-source community. Adding a license file is recommended if you plan to distribute the project. 
+
+
