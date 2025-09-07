@@ -14,7 +14,7 @@ Official PyTorch/PyTorch Geometric implementation of HGAIT, a financial time-ser
 
 ## Model Architecture
 
-### TimeMixing
+### TimeMixing Layer
 - **Modes**: `mlp` | `lstm` | `gru`
 - For each feature, embeds a length-`L` sequence into a `d_model`-dimensional representation
 
@@ -129,6 +129,7 @@ If this repository is useful for your research, please consider citing it (examp
 
 - **PyTorch** and **PyTorch Geometric** for deep learning and graph neural network tooling
 - **Weights & Biases** for experiment tracking
+
 
 
 
