@@ -108,7 +108,7 @@ All settings are managed via the `Config` class in `config.py`.
 - **Loss**: `mse_lambda`
 - **Logging**: `log_to_wandb`
 
-Windows users should replace absolute paths like `/workspace/dongwoo/HGAIT/...` with local paths or use relative paths.
+Users should replace absolute paths like `/workspace/dongwoo/HGAIT/...` with local paths or use relative paths.
 
 ## Citation
 
@@ -129,6 +129,7 @@ If this repository is useful for your research, please consider citing it (examp
 
 - **PyTorch** and **PyTorch Geometric** for deep learning and graph neural network tooling
 - **Weights & Biases** for experiment tracking
+
 
 
 
